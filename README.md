@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singparvi
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science and everything else I can learn around me
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any exiciting Data Science project. 
 - 📫 You may reach me at sing.parvi[at]gmail[dot]com
 
